@@ -33,3 +33,18 @@ Learned how to:
 • use align-items for vertical balance
 
 Flexbox feels like magic for layouts—clean, powerful, and way less messy than floats. 🚀
+
+📓 Day 15 – Web Dev Journey
+Dived deeper into CSS today:
+• z-index for layering
+• flex-direction & flex-wrap for layout flow
+• overflow control
+• box-shadow for depth
+• :hover & cursor: pointer for interactivity
+
+📓 Day 16 – Web Dev Journey
+Explored more CSS fundamentals:
+• Boilerplate setup & universal selector *{}
+• box-sizing for layout control
+• transform: rotateX/Y/Z, translateX/Y
+• perspective, scale, transition
