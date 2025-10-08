@@ -48,3 +48,12 @@ Explored more CSS fundamentals:
 • box-sizing for layout control
 • transform: rotateX/Y/Z, translateX/Y
 • perspective, scale, transition
+
+📓Day 17 – Web Dev Journey
+Learned some underrated CSS gems today:
+• Block vs Inline & inline-block
+• Smart targeting with .box:nth-child(3) / (2n)
+• clip-path for custom shapes
+• background-clip for creative text fills
+• -webkit-text-stroke & scrollbar styling
+
