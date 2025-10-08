@@ -57,3 +57,12 @@ Learned some underrated CSS gems today:
 • background-clip for creative text fills
 • -webkit-text-stroke & scrollbar styling
 
+📓 Day 18 – Web Dev Journey
+Explored CSS Grid — the true layout powerhouse!
+Learned:
+• display: grid
+• grid-template-columns: repeat(2,1fr) / grid-template-rows
+• grid-template-areas, grid-area
+• gap, justify-items, align-content
+• minmax() for responsive scaling
+
