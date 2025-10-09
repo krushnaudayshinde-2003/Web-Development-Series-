@@ -66,3 +66,10 @@ Learned:
 • gap, justify-items, align-content
 • minmax() for responsive scaling
 
+📓 Day 19 – Web Dev Journey
+Dug into CSS units — the foundation of responsive design.
+Explored:
+• Absolute: px
+• Relative: %, em, rem, vh, vw
+• Dynamic: vmin, vmax
+
